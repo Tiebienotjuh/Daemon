@@ -1,0 +1,23 @@
+{
+  "name": "daemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiebienotjuh/Daemon.git"
+  },
+  "author": "Tiebienotjuh, Sniker",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Tiebienotjuh/Daemon/issues"
+  },
+  "homepage": "https://github.com/Tiebienotjuh/Daemon#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
